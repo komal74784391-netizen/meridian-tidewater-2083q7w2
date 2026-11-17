@@ -1,0 +1,5 @@
+[project]
+name = "tidewater"
+version = "1.5.2"
+description = "Batching and request-routing gateway"
+requires-python = ">=3.10"
